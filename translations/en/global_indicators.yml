@@ -4,7 +4,8 @@
 
 4-1-title: Betreuung von Kindern in öff. KiTa (unter 3-Jährige / in %)
 4-2-title: Personal in öffentlich geförderter Kindertagespflege # auch in %
-4-3-title: Schulabbrecherquote* (in % / ohne Mittelschulabschluss)
+4-3-title: Integrative Kindertageseinrichtungen (in %)
+4-4-title: Schulabbrecherquote* (in % / ohne Mittelschulabschluss)
 
 5-1-title: Empfänger/innen von Grundsicherung nach SGB II insgesamt
 5-2-title: Kinder unter 15 J. in Grundsicherung (SGB II) # auch in %
@@ -25,8 +26,9 @@
 9-2-title: Existenzgründungen* (je 1.000 Einwohner:innen)
 9-3-title: Breitbandversorgung - private Haushalte
 
-10-1-title: Beschäftigungsquote - Ausländer (in %) # plus: im Verhältnis zur Schulabbrecherquote in der Gesamtbevölkerung
-10-2-title: Einbürgerungen im Jahr* (absolut)
+10-1-title: Beschäftigungsquote - Ausländer (in %)
+10-2-title: Schulabbrecherquote - Ausländer (in % / im Verhältnis zur Schulabbrecherquote in der Gesamtbevölkerung)
+10-3-title: Einbürgerungen im Jahr* (absolut)
 
 11-1-title: Naherholungsflächen (mit Wald) in Hektar je 1000 Einwohner/-innen
 11-2-title: Flächeninanspruchnahme (in %)
