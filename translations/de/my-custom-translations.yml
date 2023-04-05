@@ -1,2 +1,14 @@
+# add quotes("") for strings with colons
+# add " |" in the beginning of multi-lines, and start the paragraph in next line with an tab-indent
+
+frontpage-intro-title: 17 Ziele, um unsere Welt zu verändern
+frontpage-intro-description: |
+  Die 17 Ziele für nachhaltige Entwicklung (SDGs) sollen weltweit eine nachhaltige Entwicklung auf ökonomischer, sozialer und ökologischer Ebene anstoßen und wurden 2015 von allen UN-Mitgliedsstaaten als Teil der Agenda 2030 ratifiziert.
+  Um die weltweiten Ziele auch auf kommunaler Ebene voranzubringen, hat der Berliner Bezirk Treptow-Köpenick 2021 eine Kommunale Nachhaltigkeitsstrategie verabschiedet, welche gemeinsam mit verschiedenen Akteuren des Bezirks erarbeitet wurde.
+  Diese Kommunale Nachhaltigkeitsstrategie wurde um ein SDG-Monitoring ergänzt, zu  welchem sich an dieser Stelle die Indikatoren und Daten finden.
+
 my-goals-grid-title: Daten für die nachhaltigen Entwicklungsziele (SDGs) in Ingolstadt
 my-goals-grid-description: Klicken Sie auf die einzelnen Ziele, um die Daten unserer lokalen Indikatoren für nachhaltige Entwicklung anzuzeigen.
+
+my-hf-title: Handlungsfelder entdecken
+my-hf-subtitle: Die Handlungsfelder der Nachhaltigkeitsagenda Ingolstadt
