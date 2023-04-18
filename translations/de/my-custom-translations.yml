@@ -1,5 +1,5 @@
 # add quotes("") for strings with colons
-# add " |" in the beginning of multi-lines, and start the paragraph in next line with an tab-indent
+# add " |" in the beginning of multi-lines, and start each line of the text with an tab-indent
 
 frontpage-intro-title: 17 Ziele, um unsere Welt zu verändern
 frontpage-intro-description: |
