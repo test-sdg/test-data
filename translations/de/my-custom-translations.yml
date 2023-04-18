@@ -1,5 +1,5 @@
 # add quotes("") for strings with colons
-# add " |" in the beginning of multi-lines, and start each line of texts below with an tab-indent
+# add " |" in the beginning of multi-lines, and start each line of texts below with an tab-indent. The whole paragraph should be indented.
 # e.g. 
 # frontpage-intro-description: |
 #  Gemeinsam hat Ingolstadt in 
@@ -26,7 +26,6 @@ frontpage-intro-description: |
   Anhand der Zahlen lässt sich die Entwicklung der vergangenen Jahre erkennen und wirkt somit als Steuerungsinstrument für die Stadtspitze. Um eine landesweite und 
   internationale Vergleichbarkeit herstellen zu können, wurden die Indikatoren den 17 SDGs zugeordnet. Welches SDG in welchem Handlungsfeld steckt, finden Sie weiter 
   unten auf dieser Seite.
-
 
 
 my-goals-grid-title: Daten für die nachhaltigen Entwicklungsziele (SDGs) in Ingolstadt
