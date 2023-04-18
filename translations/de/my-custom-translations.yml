@@ -1,7 +1,7 @@
 # add quotes("") for strings with colons
 # add " |" in the beginning of multi-lines, and start the paragraph in next line with an tab-indent
 
-frontpage-intro-title: Zukunft gemeinsam gestalten - Monitoring der Nachhaltigkeitsstrategie Ingolstadt
+frontpage-intro-title: "Zukunft gemeinsam gestalten - Monitoring der Nachhaltigkeitsstrategie Ingolstadt"
 frontpage-intro-description: |
   "Gemeinsam hat Ingolstadt in den vergangenen Jahren bereits viel erreicht, um die Stadt zukunftsfähig und lebenswert zu gestalten: 
   Dazu gehört der Ausbau der erneuerbaren Energien sowie die stetige Stadtbegrünung ebenso wie die Förderung schulischer und außerschulischer Bildung, 
