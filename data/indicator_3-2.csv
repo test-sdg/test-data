@@ -1,5 +1,6 @@
-Year,Value
-2019,1
-2020,10
-2021,100
-2022,1000
+Year,Präventionsart,Value
+2022,universelle Prävention,79
+2022,selektive Prävention,0
+2022,indizierte Prävention,1
+2022,Verhältnisprävention,11
+2022,Gesamt,91
