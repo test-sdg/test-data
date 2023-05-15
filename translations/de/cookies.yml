@@ -1,5 +1,10 @@
 cookie_settings: Cookie settings
-all_required_notice: Wir nutzen Cookies auf unserer Website. <br>Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten. <br>Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern. Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung. Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer Datenschutzerklärung. Sie können Ihre Auswahl jederzeit unter Einstellungen widerrufen oder anpassen.
+all_required_notice:  |
+  Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern. <br>
+  <br> 
+  Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten. <br>
+  <br>
+  Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern. Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung. Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer Datenschutzerklärung. Sie können Ihre Auswahl jederzeit unter Einstellungen widerrufen oder anpassen.
 all_required_ok: OK
 acceptAll: Alle akzeptieren
 acceptSelected: Speichern
@@ -7,7 +12,12 @@ close: Close
 consentModal_description: Hier finden Sie eine Übersicht über alle verwendeten Cookies. Sie können Ihre Zustimmung zu ganzen Kategorien geben oder sich weitere Informationen anzeigen lassen und so nur bestimmte Cookies auswählen.
 consentModal_title: Individuelle Datenschutzeinstellungen
 consentNotice_changeDescription: The cookies used on this site have changed since you last visited, please renew your consent.
-consentNotice_description: Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern. <br>Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten. <br>Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern. Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung. Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer Datenschutzerklärung. Sie können Ihre Auswahl jederzeit unter Einstellungen widerrufen oder anpassen.
+consentNotice_description:  |
+  Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern. <br>
+  <br> 
+  Wenn Sie unter 16 Jahre alt sind und Ihre Zustimmung zu freiwilligen Diensten geben möchten, müssen Sie Ihre Erziehungsberechtigten um Erlaubnis bitten. <br>
+  <br>
+  Wir verwenden Cookies und andere Technologien auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern. Personenbezogene Daten können verarbeitet werden (z. B. IP-Adressen), z. B. für personalisierte Anzeigen und Inhalte oder Anzeigen- und Inhaltsmessung. Weitere Informationen über die Verwendung Ihrer Daten finden Sie in unserer Datenschutzerklärung. Sie können Ihre Auswahl jederzeit unter Einstellungen widerrufen oder anpassen.
 consentNotice_learnMore: Cookies einstellen
 consentNotice_testing: Testing mode!
 contextualConsent_acceptAlways: Always
@@ -15,16 +25,16 @@ contextualConsent_acceptOnce: 'Yes'
 contextualConsent_description: Do you want to load external content supplied by {title}?
 decline: Nur essenzielle Cookies akzeptieren
 ok: Akzeptieren
-poweredBy: Klaro
+poweredBy: Powered by Klaro
 privacyPolicy_name: privacy policy
 privacyPolicy_text: To learn more, please read our privacy policy.
-purposeItem_service: Cookie-Informationen
-purposeItem_services: Cookie-Informationen
+purposeItem_service: Weitere Informationen
+purposeItem_services: Weitere Informationen
 purposes_functional_description: Essenzielle Cookies ermöglichen grundlegende Funktionen und sind für die einwandfreie Funktion der Website erforderlich.
 purposes_functional_title: Essentiell
 purposes_performance_description: Statistik- und Optimierungscookies Cookies erfassen Informationen anonym. Diese Informationen helfen uns zu verstehen, wie unsere Besucher unsere Website nutzen.
 purposes_performance_title: Performance optimization
-purposes_analytics_description: These services collect information about how you use the website. We use this data to help make the website better.
+purposes_analytics_description: Statistik- und Optimierungscookies Cookies erfassen Informationen anonym. Diese Informationen helfen uns zu verstehen, wie unsere Besucher unsere Website nutzen.
 purposes_analytics_title: Analytics cookies
 save: Save
 service_disableAll_description: Use this switch to enable or disable all services.
@@ -34,7 +44,7 @@ service_optOut_title: (opt-out)
 service_purpose: Zweck
 service_purposes: Zweck
 service_required_description: This service is always required
-service_required_title: (technisch notwendig)
+service_required_title: 
 contrast_description: Retains active state of accessibility services
 contrast_title: Accessibility mode
 google_analytics_description: Collects information about page visits using Google Analytics
