@@ -42,7 +42,7 @@ service_purposes: Zweck
 service_required_description: This service is always required
 service_required_title: (technisch notwendig)
 contrast_description: Speichert die Benutzereinstellungen für den Hochkontrastmodus
-contrast_title: Hochkontrastmodus
+contrast_title: Contrast cookie
 google_analytics_description: Collects information about page visits using Google Analytics
 google_analytics_title: Google Analytics
-cookie_settings_description: Saves your cookie consent settings
+cookie_settings_description: Speichert die Cookie-Einstellungen der Besucher
