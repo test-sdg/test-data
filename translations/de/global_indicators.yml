@@ -1,99 +1,99 @@
 1-1-title: Anzahl Unterbringung von Obdachlosen
-1-2-title: Empfänger/innen von Grundsicherung im Alter
-1-3-title: Empfänger/innen von Grundsicherung nach SGB II insgesamt
+1-2-title: Empfänger/-innen von Grundsicherung im Alter
+1-3-title: Empfänger/-innen von Grundsicherung nach SGB II insgesamt
 1-4-1-title: Kinder unter 15 J. in Grundsicherung (SGB II)
 1-4-2-title: Kinder unter 15 J. in Grundsicherung (SGB II) in %
-1-5-title: Empfänger/innen von Grundsicherung nach SGB II insgesamt in % der Einwohner unter 65
-1-6-title: Empfänger/innen von sozialer Mindestsicherung insgesamt (ohne Asylbewerber und BaföG-Empfänger) in % der Gesamtbevölkerung
+1-5-title: Empfänger/-innen von Grundsicherung nach SGB II insgesamt in % der Einwohner/-innen unter 65
+1-6-title: Empfänger/-innen von sozialer Mindestsicherung insgesamt (ohne Asylbewerber/-innen und BaföG-Empfänger/-innen) in % der Gesamtbevölkerung
 
 2-1-title: Anteil geretteter Lebensmittel
 
 3-1-title: Anzahl Kurzzeit- und Langzeitpflegeplätze
 3-2-title: Anzahl und Art Präventionsangebote
-3-3-title: Ärzteversorgung (Allg.-Mediziner/-innen je 100.000 E)
-3-4-title: Fachärzte/-innen-Versorgung (Anzahl und Verteilung im Stadtgebiet)
-3-5-title: Immission von Luftschadstoffen (µg / m³)
+3-3-title: Ärzteversorgung
+3-4-title: Fachärzte/-innen-Versorgung
+3-5-title: Immission von Luftschadstoffen
 3-6-title: Offene Stellen und Ausbildungen von medizinischem Fachpersonal
-3-7-title: Vorzeitige Sterblickeit (unter 70 Jahre, Todesfälle)
-3-8-title: Wohnungsnahe Grundversorgung - Krankenhaus (Krankenhausbetten je 100.000 Einwohner:innen)
+3-7-title: Vorzeitige Sterblickeit
+3-8-title: Wohnungsnahe Grundversorgung - Krankenhaus
 
 4-1-title: Anzahl der Studierenden an der Technischen Hochschule Ingolstadt (THI) und der Katholischen Universität Eichstätt-Ingolstadt (KU)
 4-2-title: Aus- und Weiterbildungsangebote für städtische Mitarbeitende
-4-3-title: Betreuung von Kindern in öff. KiTa (unter 3-Jährige / in %)
-4-4-title: Integrative Kindertageseinrichtungen (in %)
-4-5-title: Kinder in öff. Tageseinrichtungen (unter 3-Jährige / absolut)
-4-6-title: Personal in öffentlich geförderter Kindertagespflege # auch in %
-4-7-title: Schulabbrecherquote* (in % / ohne Mittelschulabschluss)
+4-3-title: Betreuung von Kindern in öff. Kita
+4-4-title: Integrative Kindertageseinrichtungen
+4-5-title: Kinder in öff. Tageseinrichtungen
+4-6-title: Personal in öffentlich geförderter Kindertagespflege
+4-7-title: Schulabbrecherquote* 
 4-8-title: Teilnehmerzahl Erwachsenenbildung
 4-9-title: Wohnungsnahe Grundversorgung - Grundschule (Einwohnergewichtete Luftliniendistanz zur nächsten Grundschule in Meter)
 
-5-1-title: Angebote für Vereinbarkeit von Beruf und Familie für städtische MA
-5-2-title: Empfänger/innen von Hilfe zum Lebensunterhalt
-5-3-title: Empfänger/innen von sozialer Mindestsicherung insgesamt (ohne Asylbewerber und BaföG-Empfänger)
-5-4-title: Frauenanteil im Stadtrat, Gemeinderat bzw. Kreistag (in %)
-5-5-title: sv-Beschäftigungsquote in % (15-65 J) # Frauen und Männer
+5-1-title: Angebote für Vereinbarkeit von Beruf und Familie für städtische Mitarbeitende
+5-2-title: Empfänger/-innen von Hilfe zum Lebensunterhalt
+5-3-title: Empfänger/-innen von sozialer Mindestsicherung insgesamt (ohne Asylbewerber/-innen und BaföG-Empfänger/-innen)
+5-4-title: Frauenanteil im Stadtrat, Gemeinderat bzw. Kreistag
+5-5-title: sv-Beschäftigungsquote
 5-6-title: Verdienstabstand zwischen Frauen und Männern (Medianeinkommen-Abstand in Euro (Vollzeit))
 
 6-1-title: Anzahl sanitärer Einrichtungen im öffentlichen Raum 
 6-2-title: Anzahl Trinkwasserbrunnen
-6-3-title: "Nitrat im Grundwasser: Anteil der Messstellen, an denen der Schwellenwert von 50 mg Nitrat pro Liter überschritten wird."
+6-3-title: Nitrat im Grundwasser
 6-4-title: Verhältnis von Trennsystemen zu Mischwasserkanälen
 
-7-1-title: Strom aus Windkraft* (Watt je Einwohner:in)
+7-1-title: Strom aus Windkraft*
 
-8-1-title: Aufstocker (Anteil der erwerbstätigen ALG-II Bezieher an allen erwerbsfähigen Leistungsbeziehern)
-8-2-title: Beschäftigungsquote (15- bis 64-Jährige / in %)
-8-3-title: Bruttoinlandsprodukt (€ je Einwohner/in)
+8-1-title: Aufstocker (Anteil der erwerbstätigen ALG-II Bezieher/-innen an allen erwerbsfähigen Leistungsbezieher/-innen)
+8-2-title: Beschäftigungsquote (15- bis 64-Jährige)
+8-3-title: Bruttoinlandsprodukt
 8-4-title: Drittmittelvolumen der Technischen Hochschule Ingolstadt (THI) und der Katholischen Universität Eichstätt-Ingolstadt (KU) in EURO
-8-5-title: Langzeitarbeitslosenquote (Prozentualer Anteil, der länger als 1 Jahr arbeitslos ist)
+8-5-title: Langzeitarbeitslosenquote
 8-6-title: sv-Beschäftigte (55 Jahre und älter)
 
 9-1-title: Anzahl der angesiedelten Unternehmen in brigk und EGZ
 9-2-title: Breitbandversorgung - private Haushalte
-9-3-title: Existenzgründungen* (je 1.000 Einwohner:innen)
+9-3-title: Existenzgründungen*
 9-4-title: sv-Beschäftigte mit Hochschulabschluss (Arbeitsort, im Juni)
 
 10-1-title: Anteil der Schüler/-innen an Sonderpädagogischen Förderzentren
 10-2-title: Anzahl der gemeldeten Diskriminierungsfälle
-10-3-title: Beschäftigungsquote - Ausländer (in %)
-10-4-title: Schulabbrecherquote - Ausländer (in % / im Verhältnis zur Schulabbrecherquote in der Gesamtbevölkerung)
+10-3-title: Beschäftigungsquote - Ausländer
+10-4-title: Schulabbrecherquote - Ausländer
 10-5-title: Sprachkenntnisse bei Einschulung (Sprachniveau)
-10-6-title: Einbürgerungen im Jahr* (absolut)
-10-7-title: Wohnfläche (m² je Einwohner) in den 12 Stadtbezirken, Gini-Koeffizient
+10-6-title: Einbürgerungen im Jahr*
+10-7-title: Wohnfläche (m² je Einwohner/-in) in den 12 Stadtbezirken, Gini-Koeffizient
 
 11-1-title: Anteil (lokal) emissionsfreier Fahrzeuge bei Zulassung
 11-2-title: Anzahl barrierefreier Bushaltestellen
 11-3-title: Anzahl Bauliche Anlagen, öffentliche Wege, Plätze und Straßen, Verkehrsanlagen und Beförderungsmittel und digitale Barrierefreiheit in der Stadt (ggf. aufteilen)
 11-4-title: Anzahl Gefahrenzonen in Starkregenkartierung
 11-5-title: Bei Verkehrsunfällen Getötete oder Schwerverletzte
-11-6-title: Beteigte an Unfällen mit Personenschaden
-11-7-title: Biotopflächenfaktor (Verhältnis naturhaushaltwirksamer Flächen zur gesamten Grundstücksfläche)
-11-8-title: Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie bzw. Fernwärme (in %)
-11-9-title: Flächeninanspruchnahme (in %)
-11-10-title: Flächenneuinanspruchnahme (in %)
-11-11-title: Flächennutzungsintensität (m² je Einwohner/-in)
+11-6-title: Beteiligte an Unfällen mit Personenschaden
+11-7-title: Biotopflächenfaktor
+11-8-title: Fertiggestellte Wohngebäude mit erneuerbarer Heizenergie bzw. Fernwärme
+11-9-title: Flächeninanspruchnahme
+11-10-title: Flächenneuinanspruchnahme
+11-11-title: Flächennutzungsintensität
 11-12-title: Lärmkartierung / Anzahl der lärmbelasteten Flächen (Fortschritt / Rückschritt)
-11-13-title: Mietpreise (ohne geförderten Wohnungsbau) (Durchschnittliche Nettokaltmiete / € je m²)
-11-14-title: Naherholungsflächen (mit Wald) in Hektar je 1000 Einwohner/-innen
-11-15-title: Öffentliche Grünflächen (km2 je 1.000 E) in Stadtvierteln (Unterkategorien Grünflächen)
+11-13-title: Mietpreise (ohne geförderten Wohnungsbau)
+11-14-title: Naherholungsflächen (mit Wald)
+11-15-title: Öffentliche Grünflächen
 11-16-title: ÖPNV (Nahversorgung mit Haltestellen)
-11-17-title: PKW-Dichte (Anzahl der PKW je 1.000 Einwohner:innen)
-11-18-title: Wohnfläche je Einwohner (in m²)
+11-17-title: PKW-Dichte
+11-18-title: Wohnfläche je Einwohner/-in
 11-19-title: Zahl der Verkehrsunfälle mit Personenschaden
 
-12-1-title: Abfallmenge (private Haushalte) (Tonne je Einwohner:in)
+12-1-title: Abfallmenge (private Haushalte)
 12-2-title: Anzahl nachhaltige Kitas (zertifiziert, z.B. Fairtrade)
 12-3-title: Fairtrade-Schools (Anzahl der Schulen mit Zertifizierung)
 12-4-title: Fairtrade-Town (Anzahl der Zertifizierungen)
 12-5-title: Recyclingquote
-12-6-title: Trinkwasserverbrauch - private Haushalte (Liter je Einwohner:in und Tag)
+12-6-title: Trinkwasserverbrauch - private Haushalte
 
 13-1-title: Anzahl betroffener Bürger/-innen durch besonders belastete Gebiete aus Klimaanalysekarte
 13-2-title: Anzahl der Klimapartnerschaften
 13-3-title: Hitzetage pro Jahr
 13-4-title: Vielfalt und Qualität von Biotoptypen
 
-14-1-title: Fließwasserqualität in % (Ökologisches Potenzial von x% der Fließgewässer in der Kommune ist mind. "gut" bewertet)
+14-1-title: Fließwasserqualität
 14-2-title: Gewässerqualität
 
 15-1-title: Anteil der ökologisch bewirtschafteten Fläche an der landwirtschaftlich genutzten Fläche
@@ -103,11 +103,11 @@
 15-5-title: Waldflächenbilanz
 
 16-1-title: Anzahl Ehrenamtliche
-16-2-title: Anzahl und Art der informellen Bürger/-innenbeteiligungsverfahren pro 1.000 E
-16-3-title: Finanzmittelsaldo (€ je Einwohner:in)
-16-4-title: Liquiditätskredite (€ je Einwohner:in)
-16-5-title: Steuereinnahmen (€ je Einwohner:in)
-16-6-title: Straftaten (polizeilich gemeldet) (je 1.000 Einwohner:innen)
+16-2-title: Anzahl und Art der informellen Bürger/-innenbeteiligungsverfahren
+16-3-title: Finanzmittelsaldo
+16-4-title: Liquiditätskredite
+16-5-title: Steuereinnahmen
+16-6-title: Straftaten (polizeilich gemeldet)
 
 17-1-title: Anzahl Partnerschaften mit Kommunen aus dem Globalen Süden
 17-2-title: Anzahl Projekte mit den Partnerstädten
