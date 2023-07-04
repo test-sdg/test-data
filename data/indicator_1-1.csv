@@ -1,7 +1,9 @@
-Year,Value
-2017,261
-2018,225
-2019,188
-2020,148
-2021,114
-2022,149
+Year,Unterbringung,Value
+2017,Unterbringung,261
+2018,Unterbringung,225
+2019,Unterbringung,188
+2020,Unterbringung,148
+2021,Unterbringung,114
+2022,Unterbringung,149
+2022,Vermittlung in eigenen Wohnraum,78
+2022,Vermittlung in Therapie oder sonstige stat. Einrichtung,4
