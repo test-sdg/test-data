@@ -1,0 +1,42 @@
+---
+# 1. Indikator-Nummer eingeben 
+sdg_goal: 7 
+indicator_number: 7.2
+graph_title: global_indicators.7-2-title
+indicator_sort_order: 07-02-01
+ 
+# 2. Grafikart auswaehlen: 
+data_non_statistical: false  # set to 'false' for chart/graph visualization 
+graph_type: line  # chart types include: bar, line, binary 
+#graph_stacked_disaggregation: Gruppe  ## uncomment this line for stacked bars. eplace 'Geschlecht' with the field of aggregation. 
+computation_units: Zubau in Kilowatt Peak 
+data_start_values:  # initialize the field to be shown  
+ - field: Group 
+   value: Zubau in kWp seit 1993 
+ - field: Group 
+   value: Zubau in kWp
+ - field: Group 
+   value: kWp Gesamt 
+
+# 3. Berechnung und Quelle eingeben: 
+national_geographical_coverage: Ingolstadt 
+computation_definitions: 
+
+SOURCE_TYPE: "Stabsstelle Strategien Klima, Biodiversität und Donau" # data source  
+source_earliest_available_1: 2018
+source_periodicity_1: Alle zwei Jahre
+
+language: de   
+published: true 
+reporting_status: complete
+ 
+ 
+# Für Leittext für den Indikator nach den Stichen '---' einfügen. 
+---
+Dieser Indikator gibt den Zubau an Photovoltaik in Kilowatt Peak (kWp) an. In der Zeitreihe 2018 sind alle Zubauten seit 1993 verzeichnet.
+Daher ist diese entsprechend ausgeprägter. <br>
+Geplante Anlagen sind in dieser Grafik nicht berücksichtigt.<br>
+Stand der Auswertung: 7. Juni 2023<br>
+<br>
+<b>Ziel Nachhaltigkeitsagenda Ingolstadt</b><br>
+K1.2: Ausbau von erneuerbaren Energien, insbesondere Erzeugung von regenerativem Strom vor Ort
