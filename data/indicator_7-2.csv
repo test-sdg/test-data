@@ -1,9 +1,64 @@
 Year,kWp,Value
-2018,Zubau 1993 bis 2018,47300
-2019,Zubau ab 2019,3044
-2020,Zubau ab 2019,3625
-2021,Zubau ab 2019,4433
-2022,Zubau ab 2019,4812
-2023,Zubau ab 2019,5915
-2023,Gesamtleistung Ingolstadt,69128
+1993,Zubau,11
+1993,Gesamtleistung Ingolstadt,11
+1994,Zubau,0
+1994,Gesamtleistung Ingolstadt,11
+1995,Zubau,0
+1995,Gesamtleistung Ingolstadt,11
+1996,Zubau,8
+1996,Gesamtleistung Ingolstadt,19
+1997,Zubau,31
+1997,Gesamtleistung Ingolstadt,50
+1998,Zubau,11
+1998,Gesamtleistung Ingolstadt,61
+1999,Zubau,38
+1999,Gesamtleistung Ingolstadt,99
+2000,Zubau,40
+2000,Gesamtleistung Ingolstadt,139
+2001,Zubau,136
+2001,Gesamtleistung Ingolstadt,275
+2002,Zubau,251
+2002,Gesamtleistung Ingolstadt,426
+2003,Zubau,195
+2003,Gesamtleistung Ingolstadt,621
+2004,Zubau,1004
+2004,Gesamtleistung Ingolstadt,1625
+2005,Zubau,1323
+2005,Gesamtleistung Ingolstadt,2948
+2006,Zubau,1078
+2006,Gesamtleistung Ingolstadt,4026
+2007,Zubau,1856
+2007,Gesamtleistung Ingolstadt,5882
+2008,Zubau,2437
+2008,Gesamtleistung Ingolstadt,8319
+2009,Zubau,8364
+2009,Gesamtleistung Ingolstadt,16683
+2010,Zubau,6719
+2010,Gesamtleistung Ingolstadt,23402
+2011,Zubau,8958
+2011,Gesamtleistung Ingolstadt,32360
+2012,Zubau,3940
+2012,Gesamtleistung Ingolstadt,36300
+2013,Zubau,2146
+2013,Gesamtleistung Ingolstadt,38446
+2014,Zubau,824
+2014,Gesamtleistung Ingolstadt,39270
+2015,Zubau,974
+2015,Gesamtleistung Ingolstadt,40244
+2016,Zubau,851
+2016,Gesamtleistung Ingolstadt,41095
+2017,Zubau,4706
+2017,Gesamtleistung Ingolstadt,45801
+2018,Zubau,1499
+2018,Gesamtleistung Ingolstadt,47300
+2019,Zubau,3044
+2019,Gesamtleistung Ingolstadt,50344
+2020,Zubau,3632
+2020,Gesamtleistung Ingolstadt,53976
+2021,Zubau,4432
+2021,Gesamtleistung Ingolstadt,58408
+2022,Zubau,4976
+2022,Gesamtleistung Ingolstadt,63384
+2023,Zubau,10939
+2023,Gesamtleistung Ingolstadt,74323
 2023,Gesamtleistung städtische Anlagen,874.6
