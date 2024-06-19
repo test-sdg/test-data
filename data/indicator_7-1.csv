@@ -1,25 +1,49 @@
-Year,Anlagenart,Watt,Watt/EW
-2018,Biomasse,965000,6.98
-2018,Wasserkraft,20000,0.14
-2018,Photovoltaik,46009000,333
-2018,Gesamt,46994000,340.12
-2019,Biomasse,1040000,7.5
-2019,Wasserkraft,20000,0.14
-2019,Photovoltaik,47596000,343
-2019,Gesamt,48656000,350.64
-2020,Biomasse,1040000,7.52
-2020,Wasserkraft,20000,0.16
-2020,Photovoltaik,49560000,359
-2020,Gesamt,50620000,366.66
-2021,Biomasse,1040000,7.3
-2021,Wasserkraft,22000,0.16
-2021,Photovoltaik,52918000,380
-2021,Gesamt,53980000,387.62
-2022,Biomasse,1040000,7.3
-2022,Wasserkraft,22000,0.15
-2022,Photovoltaik,57266000,402
-2022,Gesamt,58322000,427.45
-2023,Biomasse,1040000,7.24
-2023,Wasserkraft,22000,0.15
-2023,Photovoltaik,67540000,470
-2023,Gesamt,68602000,477.39
+Year,Anlagenart,Value
+2018,Biomasse in Watt,965000
+2018,Biomasse in Watt/EW,6.98
+2018,Wasserkraft in Watt,20000
+2018,Wasserkraft in Watt/EW,0.14
+2018,Photovoltaik in Watt,46009000
+2018,Photovoltaik in Watt/EW,333
+2018,Gesamt in Watt,46994000
+2018,Gesamt in Watt/EW,340.12
+2019,Biomasse in Watt,1040000
+2019,Biomasse in Watt/EW,7.5
+2019,Wasserkraft in Watt,20000
+2019,Wasserkraft in Watt/EW,0.14
+2019,Photovoltaik in Watt,47596000
+2019,Photovoltaik in Watt/EW,343
+2019,Gesamt in Watt,48656000
+2019,Gesamt in Watt/EW,350.64
+2020,Biomasse in Watt,1040000
+2020,Biomasse in Watt/EW,7.52
+2020,Wasserkraft in Watt,20000
+2020,Wasserkraft in Watt/EW,0.16
+2020,Photovoltaik in Watt,49560000
+2020,Photovoltaik in Watt/EW,359
+2020,Gesamt in Watt,50620000
+2020,Gesamt in Watt/EW,366.66
+2021,Biomasse in Watt,1040000
+2021,Biomasse in Watt/EW,7.3
+2021,Wasserkraft in Watt,22000
+2021,Wasserkraft in Watt/EW,0.16
+2021,Photovoltaik in Watt,52918000
+2021,Photovoltaik in Watt/EW,380
+2021,Gesamt in Watt,53980000
+2021,Gesamt in Watt/EW,387.62
+2022,Biomasse in Watt,1040000
+2022,Biomasse in Watt/EW,7.3
+2022,Wasserkraft in Watt,22000
+2022,Wasserkraft in Watt/EW,0.15
+2022,Photovoltaik in Watt,57266000
+2022,Photovoltaik in Watt/EW,402
+2022,Gesamt in Watt,58322000
+2022,Gesamt in Watt/EW,427.45
+2023,Biomasse in Watt,1040000
+2023,Biomasse in Watt/EW,7.24
+2023,Wasserkraft in Watt,22000
+2023,Wasserkraft in Watt/EW,0.15
+2023,Photovoltaik in Watt,67540000
+2023,Photovoltaik in Watt/EW,470
+2023,Gesamt in Watt,68602000
+2923,Gesamt in Watt/EW,477.39
