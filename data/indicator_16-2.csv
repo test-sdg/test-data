@@ -1,6 +1,51 @@
-Year,Value
-2019,110
-2020,55
-2021,80
-2022,97
-2023,110
+Year,Beteiligungsart,Value
+2019,Bürgerumfragen,2
+2019,Bürgerversammlungen,7
+2019,Kinder- und Jugendversammlungen,5
+2019,Infoveranstaltungen,0
+2019,sonstige Bürgerbeteiligung,12
+2019,BZA-Sitzungen,71
+2019,OB im BZA,0
+2019,OB Bürgersprechstunde,0
+2019,Landesgartenschau,13
+2019,Gesamt,110
+2020,Bürgerumfragen,1
+2020,Bürgerversammlungen,2
+2020,Kinder- und Jugendversammlungen,1
+2020,Infoveranstaltungen,0
+2020,sonstige Bürgerbeteiligung,0
+2020,BZA-Sitzungen,51
+2020,OB im BZA,0
+2020,OB Bürgersprechstunde,0
+2020,Landesgartenschau,0
+2020,Gesamt,55
+2021,Bürgerumfragen,5
+2021,Bürgerversammlungen,2
+2021,Kinder- und Jugendversammlungen,2
+2021,Infoveranstaltungen,0
+2021,sonstige Bürgerbeteiligung,4
+2021,BZA-Sitzungen,63
+2021,OB im BZA,1
+2021,OB Bürgersprechstunde,3
+2021,Landesgartenschau,0
+2021,Gesamt,80
+2022,Bürgerumfragen,1
+2022,Bürgerversammlungen,6
+2022,Kinder- und Jugendversammlungen,0
+2022,Infoveranstaltungen,4
+2022,sonstige Bürgerbeteiligung,10
+2022,BZA-Sitzungen,67
+2022,OB im BZA,8
+2022,OB Bürgersprechstunde,1
+2022,Landesgartenschau,0
+2022,Gesamt,97
+2023,Bürgerumfragen,7
+2023,Bürgerversammlungen,7
+2023,Kinder- und Jugendversammlungen,3
+2023,Infoveranstaltungen,3
+2023,sonstige Bürgerbeteiligung,15
+2023,BZA-Sitzungen,71
+2023,OB im BZA,3
+2023,OB Bürgersprechstunde,1
+2023,Landesgartenschau,0
+2023,Gesamt,110
