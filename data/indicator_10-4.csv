@@ -1,7 +1,121 @@
-Year,Nationalität,Value
-2019,Ausländer,6.43
-2019,Gesamt,3.78
-2020,Ausländer,10.74
-2020,Gesamt,5.7
-2021,Ausländer,7.28
-2021,Gesamt,4.03
+Year,Abschlussart nach Nationalität,Value
+2013,Deutsche - ohne berufl. Ausbildungsabschluss,5111
+2013,Deutsche - mit anerkanntem Berufsabschluss,27327
+2013,Deutsche - mit akademischem Abschluss,9135
+2013,Deutsche - gesamt mit und ohne Abschluss,45889
+2013,Ausländer - ohne berufl. Ausbildungsabschluss,1878
+2013,Ausländer - mit anerkanntem Berufsabschluss,2724
+2013,Ausländer - mit akademischem Abschluss,1198
+2013,Ausländer - gesamt mit und ohne Abschluss,7614
+2013,Alle - ohne berufl. Ausbildungsabschluss,6998
+2013,Alle - mit anerkanntem Berufsabschluss,30056
+2013,Alle - mit akademischem Abschluss,10336
+2013,Alle - gesamt mit und ohne Abschluss,53527
+2014,Deutsche - ohne berufl. Ausbildungsabschluss,5019
+2014,Deutsche - mit anerkanntem Berufsabschluss,27928
+2014,Deutsche - mit akademischem Abschluss,9807
+2014,Deutsche - gesamt mit und ohne Abschluss,46507
+2014,Ausländer - ohne berufl. Ausbildungsabschluss,1899
+2014,Ausländer - mit anerkanntem Berufsabschluss,3137
+2014,Ausländer - mit akademischem Abschluss,1345
+2014,Ausländer - gesamt mit und ohne Abschluss,8240
+2014,Alle - ohne berufl. Ausbildungsabschluss,6927
+2014,Alle - mit anerkanntem Berufsabschluss,31070
+2014,Alle - mit akademischem Abschluss,11155
+2014,Alle - gesamt mit und ohne Abschluss,54771
+2015,Deutsche - ohne berufl. Ausbildungsabschluss,5035
+2015,Deutsche - mit anerkanntem Berufsabschluss,28493
+2015,Deutsche - mit akademischem Abschluss,10655
+2015,Deutsche - gesamt mit und ohne Abschluss,47652
+2015,Ausländer - ohne berufl. Ausbildungsabschluss,2196
+2015,Ausländer - mit anerkanntem Berufsabschluss,3614
+2015,Ausländer - mit akademischem Abschluss,1606
+2015,Ausländer - gesamt mit und ohne Abschluss,9560
+2015,Alle - ohne berufl. Ausbildungsabschluss,7235
+2015,Alle - mit anerkanntem Berufsabschluss,32111
+2015,Alle - mit akademischem Abschluss,12266
+2015,Alle - gesamt mit und ohne Abschluss,57234
+2016,Deutsche - ohne berufl. Ausbildungsabschluss,5126
+2016,Deutsche - mit anerkanntem Berufsabschluss,28935
+2016,Deutsche - mit akademischem Abschluss,11711
+2016,Deutsche - gesamt mit und ohne Abschluss,49042
+2016,Ausländer - ohne berufl. Ausbildungsabschluss,2424
+2016,Ausländer - mit anerkanntem Berufsabschluss,4009
+2016,Ausländer - mit akademischem Abschluss,1839
+2016,Ausländer - gesamt mit und ohne Abschluss,10534
+2016,Alle - ohne berufl. Ausbildungsabschluss,7556
+2016,Alle - mit anerkanntem Berufsabschluss,32954
+2016,Alle - mit akademischem Abschluss,13554
+2016,Alle - gesamt mit und ohne Abschluss,59601
+2017,Deutsche - ohne berufl. Ausbildungsabschluss,5085
+2017,Deutsche - mit anerkanntem Berufsabschluss,29071
+2017,Deutsche - mit akademischem Abschluss,12200
+2017,Deutsche - gesamt mit und ohne Abschluss,49437
+2017,Ausländer - ohne berufl. Ausbildungsabschluss,2510
+2017,Ausländer - mit anerkanntem Berufsabschluss,4169
+2017,Ausländer - mit akademischem Abschluss,1998
+2017,Ausländer - gesamt mit und ohne Abschluss,10963
+2017,Alle - ohne berufl. Ausbildungsabschluss,7601
+2017,Alle - mit anerkanntem Berufsabschluss,33249
+2017,Alle - mit akademischem Abschluss,14200
+2017,Alle - gesamt mit und ohne Abschluss,60422
+2018,Deutsche - ohne berufl. Ausbildungsabschluss,5109
+2018,Deutsche - mit anerkanntem Berufsabschluss,29193
+2018,Deutsche - mit akademischem Abschluss,12647
+2018,Deutsche - gesamt mit und ohne Abschluss,49906
+2018,Ausländer - ohne berufl. Ausbildungsabschluss,2756
+2018,Ausländer - mit anerkanntem Berufsabschluss,4536
+2018,Ausländer - mit akademischem Abschluss,2272
+2018,Ausländer - gesamt mit und ohne Abschluss,11843
+2018,Alle - ohne berufl. Ausbildungsabschluss,7867
+2018,Alle - mit anerkanntem Berufsabschluss,33738
+2018,Alle - mit akademischem Abschluss,14921
+2018,Alle - gesamt mit und ohne Abschluss,61771
+2019,Deutsche - ohne berufl. Ausbildungsabschluss,5098
+2019,Deutsche - mit anerkanntem Berufsabschluss,29100
+2019,Deutsche - mit akademischem Abschluss,13039
+2019,Deutsche - gesamt mit und ohne Abschluss,50030
+2019,Ausländer - ohne berufl. Ausbildungsabschluss,2894
+2019,Ausländer - mit anerkanntem Berufsabschluss,4867
+2019,Ausländer - mit akademischem Abschluss,2731
+2019,Ausländer - gesamt mit und ohne Abschluss,12925
+2019,Alle - ohne berufl. Ausbildungsabschluss,7994
+2019,Alle - mit anerkanntem Berufsabschluss,33978
+2019,Alle - mit akademischem Abschluss,15773
+2019,Alle - gesamt mit und ohne Abschluss,62977
+2020,Deutsche - ohne berufl. Ausbildungsabschluss,4977
+2020,Deutsche - mit anerkanntem Berufsabschluss,28461
+2020,Deutsche - mit akademischem Abschluss,13179
+2020,Deutsche - gesamt mit und ohne Abschluss,49237
+2020,Ausländer - ohne berufl. Ausbildungsabschluss,2976
+2020,Ausländer - mit anerkanntem Berufsabschluss,5034
+2020,Ausländer - mit akademischem Abschluss,2924
+2020,Ausländer - gesamt mit und ohne Abschluss,13335
+2020,Alle - ohne berufl. Ausbildungsabschluss,7954
+2020,Alle - mit anerkanntem Berufsabschluss,33503
+2020,Alle - mit akademischem Abschluss,16105
+2020,Alle - gesamt mit und ohne Abschluss,62585
+2021,Deutsche - ohne berufl. Ausbildungsabschluss,4852
+2021,Deutsche - mit anerkanntem Berufsabschluss,28153
+2021,Deutsche - mit akademischem Abschluss,13422
+2021,Deutsche - gesamt mit und ohne Abschluss,48924
+2021,Ausländer - ohne berufl. Ausbildungsabschluss,3139
+2021,Ausländer - mit anerkanntem Berufsabschluss,5341
+2021,Ausländer - mit akademischem Abschluss,3196
+2021,Ausländer - gesamt mit und ohne Abschluss,14066
+2021,Alle - ohne berufl. Ausbildungsabschluss,7991
+2021,Alle - mit anerkanntem Berufsabschluss,33494
+2021,Alle - mit akademischem Abschluss,16618
+2021,Alle - gesamt mit und ohne Abschluss,62991
+2022,Deutsche - ohne berufl. Ausbildungsabschluss,4858
+2022,Deutsche - mit anerkanntem Berufsabschluss,28030
+2022,Deutsche - mit akademischem Abschluss,13460
+2022,Deutsche - gesamt mit und ohne Abschluss,48696
+2022,Ausländer - ohne berufl. Ausbildungsabschluss,3417
+2022,Ausländer - mit anerkanntem Berufsabschluss,5563
+2022,Ausländer - mit akademischem Abschluss,3708
+2022,Ausländer - gesamt mit und ohne Abschluss,15388
+2022,Alle - ohne berufl. Ausbildungsabschluss,8275
+2022,Alle - mit anerkanntem Berufsabschluss,33593
+2022,Alle - mit akademischem Abschluss,17168
+2022,Alle - gesamt mit und ohne Abschluss,64085
