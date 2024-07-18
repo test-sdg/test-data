@@ -1,4 +1,17 @@
-Year,Value
-2019,98.5
-2020,98.9
-2021,99.2
+Year,Breitbandversorgung,Value
+2019,Ingolstadt,90.1
+2019,Freistaat Bayern,54.63
+2019,Bundesrepublik Deutschland,43.22
+2020,Ingolstadt,90.6
+2020,Freistaat Bayern,60.09
+2020,Bundesrepublik Deutschland,59.18
+2021,Ingolstadt,90.96
+2021,Freistaat Bayern,63.99
+2021,Bundesrepublik Deutschland,62.13
+2022,Ingolstadt,99.94
+2022,Freistaat Bayern,66.47
+2022,Bundesrepublik Deutschland,70.50
+2023,Ingolstadt,99.86
+2023,Freistaat Bayern,69.48
+2023,Bundesrepublik Deutschland,74.81
+
