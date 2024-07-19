@@ -1,5 +1,11 @@
-Year,Value
-2019,86
-2020,84
-2021,92
-2022,99
+Year,Anzahl angesiedelter Unternehmen,Value
+2019,brigk,16
+2019,EGZ,70
+2020,brigk,15
+2020,EGZ,69
+2021,brigk,19
+2021,EGZ,73
+2022,brigk,20
+2022,EGZ,79
+2023,brigk,25
+2023,EGZ,
