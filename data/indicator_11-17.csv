@@ -1,4 +1,11 @@
-Year,Value
-2019,735.8
-2020,706.0
-2021,697.2
+Year,Region,Value
+2019,Ingolstadt,726.6
+2019,Bayern,609.7
+2020,Ingolstadt,704.8
+2020,Bayern,616.9
+2021,Ingolstadt,695.6
+2021,Bayern,621.8
+2022,Ingolstadt,693.6
+2022,Bayern,624.5
+2023,Ingolstadt,
+2023,Bayern,620.6
