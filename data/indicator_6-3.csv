@@ -1,2 +1,10 @@
-Year,Value
-2021,0
+Year,Region,Value
+2021,Ingolstadt,8.1
+2021,Neuburg-Schrobenhausen,0.9
+2021,Eichstätt,19
+2022,Ingolstadt,8.3
+2022,Neuburg-Schrobenhausen,0.5
+2022,Eichstätt,19
+2023,Ingolstadt,2.9
+2023,Neuburg-Schrobenhausen,2.2
+2023,Eichstätt,20
