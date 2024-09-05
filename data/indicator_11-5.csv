@@ -1,5 +1,11 @@
-Year,Value
-2019,102
-2020,99
-2021,101
-2022,108
+Year,Unfall mit,Value
+2019,Getötete oder schwer verletzte,102
+2019,Personenschaden,743
+2020,Getötete oder schwer verletzte,99
+2020,Personenschaden,612
+2021,Getötete oder schwer verletzte,101
+2021,Personenschaden,562
+2022,Getötete oder schwer verletzte,108
+2022,Personenschaden,688
+2023,Getötete oder schwer verletzte,96
+2023,Personenschaden,740
