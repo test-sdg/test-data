@@ -1,13 +1,17 @@
-Year,Einrichtung,Value
-2019,Gesamt,27030000
-2019,THI,17000000
-2019,KU,10030000
-2020,Gesamt,27016000
-2020,THI,17500000
-2020,KU,9516000
-2021,Gesamt,31638000
-2021,THI,20000000
-2021,KU,11638000
-2022,Gesamt,35641000
-2022,THI,23000000
-2022,KU,12641000
+Year,Langzeitleistungsbezieher und Langzeitarbeitslos,Value
+2020,Langzeitleistungsbezieher Männer,1096
+2020,Langzeitleistungsbezieher Frauen,1314
+2020,Langzeitarbeitslos Männer,253
+2020,Langzeitarbeitslos Frauen,228
+2021,Langzeitleistungsbezieher Männer,1151
+2021,Langzeitleistungsbezieher Frauen,1382
+2021,Langzeitarbeitslos Männer,298
+2021,Langzeitarbeitslos Frauen,252
+2022,Langzeitleistungsbezieher Männer,1173
+2022,Langzeitleistungsbezieher Frauen,1450
+2022,Langzeitarbeitslos Männer,293
+2022,Langzeitarbeitslos Frauen,224
+2023,Langzeitleistungsbezieher Männer,1084
+2023,Langzeitleistungsbezieher Frauen,1348
+2023,Langzeitarbeitslos Männer,261
+2023,Langzeitarbeitslos Frauen,222
