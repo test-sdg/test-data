@@ -1,4 +1,66 @@
-Year,Value
-2019,301
-2020,301
-2021,301
+Year,Bezirk,Value
+2019,I Mitte,46.9
+2019,II Nordwest,32.9
+2019,III Nordost,39.5
+2019,IV Südost,42.5
+2019,V Südwest,50.1
+2019,VI West,51.6
+2019,VII Etting,48.3
+2019,VIII Oberhaunstadt,45.7
+2019,IX Mailing,45.7
+2019,X Süd,49.9
+2019,XI Friedrichshofen-Hollerstauden,45
+2019,XII Münchener Straße,46.5
+2019,Gesamt,43.8
+2020,I Mitte,47.5
+2020,II Nordwest,34.1
+2020,III Nordost,40.1
+2020,IV Südost,43.2
+2020,V Südwest,50.9
+2020,VI West,51.9
+2020,VII Etting,48.8
+2020,VIII Oberhaunstadt,46.9
+2020,IX Mailing,46.3
+2020,X Süd,50.6
+2020,XI Friedrichshofen-Hollerstauden,45.7
+2020,XII Münchener Straße,46.9
+2020,Gesamt,44.6
+2021,I Mitte,47.9
+2021,II Nordwest,33.9
+2021,III Nordost,40.3
+2021,IV Südost,43.3
+2021,V Südwest,51.3
+2021,VI West,52.5
+2021,VII Etting,48.9
+2021,VIII Oberhaunstadt,46.7
+2021,IX Mailing,47.7
+2021,X Süd,50.8
+2021,XI Friedrichshofen-Hollerstauden,44.9
+2021,XII Münchener Straße,47.5
+2021,Gesamt,44.8
+2022,I Mitte,46.9
+2022,II Nordwest,33.1
+2022,III Nordost,39.9
+2022,IV Südost,42.5
+2022,V Südwest,51.0
+2022,VI West,53
+2022,VII Etting,48.8
+2022,VIII Oberhaunstadt,46.2
+2022,IX Mailing,48.1
+2022,X Süd,50.7
+2022,XI Friedrichshofen-Hollerstauden,44.6
+2022,XII Münchener Straße,47.3
+2022,Gesamt,44.3
+2023,I Mitte,46.6
+2023,II Nordwest,32.7
+2023,III Nordost,39.7
+2023,IV Südost,42.7
+2023,V Südwest,51.5
+2023,VI West,53.5
+2023,VII Etting,49.4
+2023,VIII Oberhaunstadt,46.9
+2023,IX Mailing,47.9
+2023,X Süd,51.1
+2023,XI Friedrichshofen-Hollerstauden,45
+2023,XII Münchener Straße,47.5
+2023,Gesamt,44.4
