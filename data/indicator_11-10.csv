@@ -1,9 +1,4 @@
-Year,Flächenart,Value
-2019,Siedlungs- und Verkehrsfläche,0.15
-2019,Vegetation,-0.13
-2020,Siedlungs- und Verkehrsfläche,-0.94
-2020,Vegetation,0.60
-2021,Siedlungs- und Verkehrsfläche,0.29
-2021,Vegetation,-0.19
-2022,Siedlungs- und Verkehrsfläche,0.31
-2022,Vegetation,-0.18
+Year,Lärmbelastete Fläche,Value
+2020,über 55 dB,45
+2020,über 65 dB,10.7
+2020,über 75 dB,1.4
