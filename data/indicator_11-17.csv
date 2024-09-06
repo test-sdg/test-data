@@ -1,11 +1,9 @@
-Year,Region,Value
-2019,Ingolstadt,736
-2019,Bayern,619
-2020,Ingolstadt,709
-2020,Bayern,622
-2021,Ingolstadt,708
-2021,Bayern,626
-2022,Ingolstadt,715
-2022,Bayern,630
-2023,Ingolstadt,734
-2023,Bayern,626
+Year,Modal Split,Value
+2001,zu Fuß,19.5
+2001,Fahrrad,18.5
+2001,MIV,53.0
+2001,ÖV,9.0
+2016,zu Fuß,12.6
+2016,Fahrrad,21.0
+2016,MIV,58.9
+2016,ÖV,7.4
