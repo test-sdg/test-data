@@ -1,16 +1,16 @@
-Year,Kinder zwischen 0 und 3 Jahre,Value
-2019,gesamt,1037
-2019,mit ausl. Elternteil,343
-2019,ohne ausl. Elternteil,694
-2020,gesamt,1067
-2020,mit ausl. Elternteil,330
-2020,ohne ausl. Elternteil,737
-2021,gesamt,1108
-2021,mit ausl. Elternteil,366
-2021,ohne ausl. Elternteil,742
-2022,gesamt,1112
-2022,mit ausl. Elternteil,397
-2022,ohne ausl. Elternteil,715
-2023,gesamt,1107
-2023,mit ausl. Elternteil,393
-2023,ohne ausl. Elternteil,714
+Year,Herkunft,Value
+2019,gesamt,1262
+2019,mit Migrationshintergrund,559
+2019,ohne Migrationshintergrund,703
+2020,gesamt,1328
+2020,mit Migrationshintergrund,586
+2020,ohne Migrationshintergrund,742
+2021,gesamt,1343
+2021,mit Migrationshintergrund,599
+2021,ohne Migrationshintergrund,744
+2022,gesamt,1417
+2022,mit Migrationshintergrund,657
+2022,ohne Migrationshintergrund,760
+2023,gesamt,1409
+2023,mit Migrationshintergrund,652
+2023,ohne Migrationshintergrund,757

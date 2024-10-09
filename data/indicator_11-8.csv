@@ -1,36 +1,17 @@
-Year,Neue Wohngebäude,Value
-2019,gesamt,280
-2019,Fernwärme,12
-2019,Geothermie,6
-2019,Umweltthermie,99
-2019,Solarthermie,4
-2019,Holz,28
-2019,Biomasse,3
-2020,gesamt,267
-2020,Fernwärme,10
-2020,Geothermie,3
-2020,Umweltthermie,117
-2020,Solarthermie,1
-2020,Holz,11
-2020,Biomasse,0
-2021,gesamt,217
-2021,Fernwärme,7
-2021,Geothermie,6
-2021,Umweltthermie,115
-2021,Solarthermie,2
-2021,Holz,11
-2021,Biomasse,0
-2022,gesamt,220
-2022,Fernwärme,7
-2022,Geothermie,9
-2022,Umweltthermie,120
-2022,Solarthermie,1
-2022,Holz,15
-2022,Biomasse,0
-2023,gesamt,208
-2023,Fernwärme,8
-2023,Geothermie,3
-2023,Umweltthermie,139
-2023,Solarthermie,0
-2023,Holz,25
-2023,Biomasse,2
+Year,Flächenart,Value
+2019,Inanspruchnahme Siedlungs-und Verkehrsfläche,37.14
+2019,Inanspruchnahme Vegetation,58.80
+2019,Neuinanspruchnahme Siedlungs- und Verkehrsfläche,0.15
+2019,Neuinanspruchnahme Vegetation,-0.13
+2020,Inanspruchnahme Siedlungs-und Verkehrsfläche,36.79
+2020,Inanspruchnahme Vegetation,59.16
+2020,Neuinanspruchnahme Siedlungs- und Verkehrsfläche,-0.94
+2020,Neuinanspruchnahme Vegetation,0.60
+2021,Inanspruchnahme Siedlungs-und Verkehrsfläche,36.90
+2021,Inanspruchnahme Vegetation,59.05
+2021,Neuinanspruchnahme Siedlungs- und Verkehrsfläche,0.29
+2021,Neuinanspruchnahme Vegetation,-0.19
+2022,Inanspruchnahme Siedlungs-und Verkehrsfläche,37.01
+2022,Inanspruchnahme Vegetation,58.94
+2022,Neuinanspruchnahme Siedlungs- und Verkehrsfläche,0.31
+2022,Neuinanspruchnahme Vegetation,-0.18
