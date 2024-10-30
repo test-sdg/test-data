@@ -1,16 +1,11 @@
-Year,Geschlecht,Value
-2019,männlich,125
-2019,weiblich,131
-2019,gesamt,256
-2020,männlich,122
-2020,weiblich,125
-2020,gesamt,247
-2021,männlich,117
-2021,weiblich,123
-2021,gesamt,240
-2022,männlich,125
-2022,weiblich,123
-2022,gesamt,248
-2023,männlich,114
-2023,weiblich,120
-2023,gesamt,234
+Year,Quote,Value
+2019,SGB II,5.2
+2019,SGB XII,1.23
+2020,SGB II,5.5
+2020,SGB XII,0.32
+2021,SGB II,5.7
+2021,SGB XII,0.34
+2022,SGB II,5.7
+2022,SGB XII,0.33
+2023,SGB II,5.9
+2023,SGB XII,0.34
