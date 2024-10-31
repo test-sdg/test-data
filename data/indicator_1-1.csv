@@ -1,12 +1,11 @@
-Year,Unterbringung,Value
-2017,Unterbringung,261
-2018,Unterbringung,225
-2019,Unterbringung,188
-2020,Unterbringung,148
-2021,Unterbringung,114
-2022,Unterbringung,149
-2022,Vermittlung in eigenen Wohnraum,78
-2022,Vermittlung in Therapie oder sonstige stat. Einrichtung,4
-2023,Unterbringung,190
-2023,Vermittlung in eigenen Wohnraum,79
-2023,Vermittlung in Therapie oder sonstige stat. Einrichtung,11
+Year,Herkunft und Geschlecht,Value
+2022,Deutsche,0.067
+2022,Ausländer,0.12
+2022,männlich,0.13
+2022,weiblich,0.064
+2022,gesamt,0.188
+2023,Deutsche,0.088
+2023,Ausländer,0.26
+2023,männlich,0.197
+2023,weiblich,0.151
+2023,gesamt,0.348
